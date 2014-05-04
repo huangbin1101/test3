@@ -1,0 +1,4 @@
+#this is used to ignore the file we don't need to commit 
+*.o
+*.txt
+!m.txt
